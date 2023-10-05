@@ -1,5 +1,5 @@
 # TinyMachine
-CDA3103 - TinyMachine
+TinyMachine Simulator
 
 
 compile:
